@@ -1,5 +1,5 @@
 {
-    "name": "adventofcode devcontainer",
+    "name": "advent-of-code",
 
 	"build": {
 		"dockerfile": "Dockerfile",
